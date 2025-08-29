@@ -1,3 +1,5 @@
+<div align="center">
+
 # DEFI-STABLE-COIN
 
 *Empowering Stable Value Through Decentralized Innovation*
@@ -13,6 +15,8 @@ Built with the tools and technologies:
 ![Markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown&logoColor=white)
 ![TOML](https://img.shields.io/badge/-TOML-brown)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
+
+</div>
 
 ---
 
